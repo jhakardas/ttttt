@@ -1,0 +1,56 @@
+Uri: https://www.trackyourads.live/
+File Name: C:\Downloaded Web Sites\www.trackyourads.live\index.htm
+Content Type: text/html
+
+Uri: https://www.trackyourads.live/?MA
+File Name: C:\Downloaded Web Sites\www.trackyourads.live\index-2.htm
+Content Type: text/html
+
+Uri: https://www.trackyourads.live/?MD
+File Name: C:\Downloaded Web Sites\www.trackyourads.live\index-5.htm
+Content Type: text/html
+
+Uri: https://www.trackyourads.live/?NA
+File Name: C:\Downloaded Web Sites\www.trackyourads.live\index-4.htm
+Content Type: text/html
+
+Uri: https://www.trackyourads.live/?ND
+File Name: C:\Downloaded Web Sites\www.trackyourads.live\index-1.htm
+Content Type: text/html
+
+Uri: https://www.trackyourads.live/?SA
+File Name: C:\Downloaded Web Sites\www.trackyourads.live\index-3.htm
+Content Type: text/html
+
+Uri: https://www.trackyourads.live/?SD
+File Name: C:\Downloaded Web Sites\www.trackyourads.live\index-6.htm
+Content Type: text/html
+
+Uri: https://www.trackyourads.live/newfbinv.zip
+File Name: C:\Downloaded Web Sites\www.trackyourads.live\newfbinv.zip
+Content Type: application/zip
+
+Uri: https://www.trackyourads.live/youtubenew.zip
+File Name: C:\Downloaded Web Sites\www.trackyourads.live\youtubenew.zip
+Content Type: application/zip
+
+Uri: https://www.trackyourads.live/_autoindex/assets/css/autoindex.css
+File Name: C:\Downloaded Web Sites\www.trackyourads.live\_autoindex\assets\css\autoindex.css
+Content Type: text/css
+
+Uri: https://www.trackyourads.live/_autoindex/assets/icons/file.svg
+File Name: C:\Downloaded Web Sites\www.trackyourads.live\_autoindex\assets\icons\file.svg
+Content Type: image/svg+xml
+
+Uri: https://www.trackyourads.live/_autoindex/assets/icons/folder-fill.svg
+File Name: C:\Downloaded Web Sites\www.trackyourads.live\_autoindex\assets\icons\folder-fill.svg
+Content Type: image/svg+xml
+
+Uri: https://www.trackyourads.live/_autoindex/assets/js/tablesort.js
+File Name: C:\Downloaded Web Sites\www.trackyourads.live\_autoindex\assets\js\tablesort.js
+Content Type: application/javascript
+
+Uri: https://www.trackyourads.live/_autoindex/assets/js/tablesort.number.js
+File Name: C:\Downloaded Web Sites\www.trackyourads.live\_autoindex\assets\js\tablesort.number.js
+Content Type: application/javascript
+
